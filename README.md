@@ -1,4 +1,4 @@
-# secure-code-review-checklist
+# Secure Code Review Checklist
 A starter secure code review checklist
 
 - Available in [Xlsx](Secure_Code_Checklist.xlsx) for offline testing
@@ -88,10 +88,10 @@ A starter secure code review checklist
 - [ ] User input is sanitized and validated before being placed in application logs
 
 
-#### Sources:
+#### Sources and References:
 
-- Modelled after: [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [Secure Code Review Checklist]()https://arch.simplicable.com/arch/new/secure-code-review-checklist)
+- [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [Secure Code Review Checklist](https://arch.simplicable.com/arch/new/secure-code-review-checklist)
 - [softwaresecured](https://github.com/softwaresecured/secure-code-review-checklist)
 - [Code Review Checklist – To Perform Effective Code Reviews](https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/)
 - [Java Code Review Checklist](https://dzone.com/articles/java-code-review-checklist)
